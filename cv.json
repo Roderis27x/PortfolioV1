@@ -264,6 +264,26 @@
     ]
   },
   {
+    "name": "Visual Basic",
+    "icon": "simple-icons:visualbasic",
+    "level": "Intermediate",
+    "keywords": [
+      "Programación",
+      "Desarrollo de aplicaciones",
+      "Interfaz gráfica"
+    ]
+  },
+  {
+    "name": ".Net",
+    "icon": "simple-icons:dotnet",
+    "level": "Intermediate",
+    "keywords": [
+      "Programación",
+      "Desarrollo de aplicaciones",
+      "Interfaz gráfica"
+    ]
+  },
+  {
     "name": "SQL",
     "icon": "mdi:database",
     "level": "Intermediate",
@@ -274,7 +294,18 @@
     ]
   },
   {
-    "name": "Inteligencia Artificial",
+    "name": "AI",
+    "icon": "mdi:brain",
+    "level": "Intermediate",
+    "keywords": [
+      "Aprendizaje automático",
+      "Procesamiento de lenguaje natural",
+      "Visión por computadora",
+      "Redes neuronales"
+    ]
+  },
+  {
+    "name": "Machine Learning",
     "icon": "mdi:brain",
     "level": "Intermediate",
     "keywords": [
@@ -348,6 +379,16 @@
     ]
   },
   {
+    "name": "TypeScript",
+    "icon": "simple-icons:typescript",
+    "level": "Intermediate",
+    "keywords": [
+      "Desarrollo Web",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
     "name": "Tailwind",
     "icon": "simple-icons:tailwindcss",
     "level": "Intermediate",
@@ -370,6 +411,39 @@
     ]
   },
   {
+    "name": "Router",
+    "icon": "mdi:router",
+    "level": "Intermediate",
+    "keywords": [
+      "Configuración de redes",
+      "Protocolos",
+      "Seguridad",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "name": "Switch",
+    "icon": "mdi:switch",
+    "level": "Intermediate",
+    "keywords": [
+      "Configuración de redes",
+      "Protocolos",
+      "Seguridad",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "name": "Ciberseguridad",
+    "icon": "mdi:shield-check",
+    "level": "Intermediate",
+    "keywords": [
+      "Seguridad informática",
+      "Seguridad de la información",
+      "Seguridad informática",
+      "Seguridad de la información"
+    ]
+  },
+  {
     "name": "Soporte y Mantenimiento",
     "icon": "mdi:wrench",
     "level": "Intermediate",
@@ -378,6 +452,16 @@
       "Mantenimiento preventivo",
       "Actualizaciones de software",
       "Optimización de sistemas"
+    ]
+  },
+  {
+    "name": "Bash",
+    "icon": "simple-icons:gnu",
+    "level": "Intermediate",
+    "keywords": [
+      "Línea de comandos",
+      "Scripting",
+      "Automatización"
     ]
   },
   {
