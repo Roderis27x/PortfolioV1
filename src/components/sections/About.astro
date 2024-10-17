@@ -1,0 +1,13 @@
+---
+import Section from "../Section.astro";
+
+import CV from "@cv";
+const { summary } = CV.basics;
+---
+
+<Section title="Acerca de mi">
+  <p class="font-mono opacity-75 print:font-sans text-justify">
+    {summary}
+  </p>
+</Section>
+

@@ -1,0 +1,478 @@
+{
+  "analyticsCode": "",
+  "pageLayout": "two-column",
+  "basics": {
+    "name": "Roderis Ortega",
+    "label": "Estudiante de Ingeniería en Sistemas y Computación",
+    "image": "/avatar1.png",
+    "email": "Roderis0927@gmail.com",
+    "url": "",
+    "summary": "Soy estudiante de cuarto año de ingeniero en sistemas y computación. Me gusta diseñar páginas web, interesado en el mundo de la ciberseguridad, donde actualmente me encuentro aprendiendo los conocimientos necesarios para ser un experto, ademas me encanta ayudar a las personas simplificando su vida con los programas que desarrollo.",
+    "theme": "red",
+    "location": {
+      "address": "Ciudad de Panamá"
+    },
+    "profiles": [
+      {
+        "network": "Bilibili",
+        "icon": "ri:bilibili-line",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Colegio Claret Panamá",
+      "url": "",
+      "area": "Bachiller en Ciencas",
+      "studyType": "",
+      "startDate": "2007-9-01",
+      "endDate": "2018-06-01"
+    },
+    {
+      "institution": "Universidad Tecnológica de Panamá",
+      "url": "",
+      "area": "Licenciatura en Ingeniería en Sistemas y Computación",
+      "studyType": "Licenciatura",
+      "startDate": "2019-04-01",
+      "endDate": null
+    }
+  ],
+  "certificates": [
+  {
+    "name": "Diseño Páginas Web con Bootstrap",
+    "date": "2020",
+    "url": "",
+    "issuer": "Universidad Austral, Argentina"
+  },
+  {
+    "name": "Competencia digital de ofimática",
+    "date": "2021",
+    "url": "",
+    "issuer": "Universidad Autónoma de Barcelona"
+  },
+  {
+    "name": "Cátedra Dell Technologies Panamá",
+    "date": "2022",
+    "url": "",
+    "issuer": "Universidad Tecnológica de Panamá"
+  },
+  {
+    "name": "Programación en Python e Inteligencia Artificial",
+    "date": "2022-03-18",
+    "url": "",
+    "issuer": "Samsung Innovation Campus"
+  },
+  {
+    "name": "Back - End | Especialización Java y Spring Boot",
+    "date": "2023-03-18",
+    "url": "",
+    "issuer": "Oracle Next Education"
+  },
+  {
+    "name": "CCNA: Introduction to Networks",
+    "date": "2023-03-18",
+    "url": "",
+    "issuer": "Cisco Networking Academy"
+  },
+  {
+    "name": "CCNA: Switching, Routing, and Wireless Essentials",
+    "date": "2023-03-18",
+    "url": "",
+    "issuer": "Cisco Networking Academy"
+  },
+  {
+    "name": "Capacitación en línea oficial de ISC2 CC",
+    "date": "2024-03-18",
+    "url": "",
+    "issuer": "ISC2"
+  },
+  {
+    "name": "Fundamentos de la ciberseguridad",
+    "date": "2024-03-18",
+    "url": "",
+    "issuer": "Google"
+  },
+  {
+    "name": "Introduction to Cybersecurity",
+    "date": "2024-03-18",
+    "url": "",
+    "issuer": "Cisco Networking Academy"
+  },
+  {
+    "name": "Networking in Cybersecurity",
+    "date": "2024-03-18",
+    "url": "",
+    "issuer": "Cisco Networking Academy"
+  }
+],
+  "work": [
+    {
+      "name": "PDG S.A:",
+      "position": "Servicio Profesional de Soporte TI",
+      "location_type": "Presencial - Remoto",
+      "location": "PA",
+      "url": "",
+      "startDate": "2024-03-18",
+      "endDate": "2024-09-13",
+      "summary": "Desarrollo de aplicaciones web y soporte técnico.",
+      "highlights": [
+        "Enhanced internal workflow efficiency by 30%."
+      ],
+      "responsibilities": [
+        "Proporcioné asistencia técnica y resolví problemas de hardware y software.",
+        "Mantuve y gestioné la infraestructura de TI y los sistemas internos."
+      ],
+      "achievements": [
+        "Implementé mejoras en el sistema de gestión de incidencias y optimicé los tiempos de respuesta del soporte técnico.",
+        "Implemente paginas web solicitadas por los clientes."
+      ],
+      "skills": {
+        "Redes": "mdi:network",
+        "Switch": "mdi:switch",
+        "Camaras": "mdi:camera",
+        "3CX": "mdi:phone",
+        "Soporte": "mdi:support",
+        "Windows": "mdi:windows",
+        "Tarjetas RFID": "mdi:card-account-details",
+        "Linux": "simple-icons:linux",
+        "Office": "mdi:microsoft-office",
+        "Mantenimiento": "mdi:wrench",
+        "Actualizaciones": "mdi:update",
+        "JavaScript": "simple-icons:javascript",
+        "CSS": "ri:css3-fill",
+        "Boostrap": "simple-icons:bootstrap"      }
+    },
+    {
+      "name": "Freelance",
+      "position": "Técnico en Reparación de Computadoras",
+      "location_type": "Presencial",
+      "location": "PA",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": "2023-12-31",
+      "summary": "Realicé diagnóstico, reparación y actualización de computadoras, tanto en hardware como en software.",
+      "highlights": [
+        "Reparé más de 50 equipos con éxito.",
+        "Optimicé el rendimiento de PCs mediante la actualización de componentes."
+      ],
+      "responsibilities": [
+        "Diagnóstico de fallos en hardware y software.",
+        "Reemplazo de discos duros y memorias RAM.",
+        "Instalación y configuración de software.",
+        "Mantenimiento preventivo y correctivo de equipos."
+      ],
+      "achievements": [
+        "Reduje los tiempos de inactividad de los equipos gracias a diagnósticos rápidos y eficientes.",
+        "Mejoré el rendimiento de equipos mediante actualizaciones de hardware."
+      ],
+      "skills": {
+        "Windows": "mdi:windows",
+        "Linux": "simple-icons:linux",
+        "Hardware": "mdi:memory",
+        "Software": "mdi:application",
+        "Memorias RAM": "mdi:memory",
+        "Discos Duros": "mdi:harddisk",
+        "Mantenimiento": "mdi:wrench",
+        "Actualizaciones": "mdi:update",
+        "Antivirus": "mdi:shield-check",
+        "Office": "mdi:microsoft-office"
+      }
+    }
+    
+  ],
+  "skills": [
+  {
+    "name": "Python",
+    "icon": "simple-icons:python",
+    "level": "Intermediate",
+    "keywords": [
+      "Programming",
+      "Scripting",
+      "Automation",
+      "AI"
+    ]
+  },
+  {
+    "name": "Java",
+    "icon": "mdi:language-java",
+    "level": "Intermediate",
+    "keywords": [
+      "Backend Development",
+      "Fullstack",
+      "Spring Boot"
+    ]
+  },
+  {
+    "name": "Lenguaje C",
+    "icon": "simple-icons:c",
+    "level": "Intermediate",
+    "keywords": [
+      "Programación de sistemas",
+      "Desarrollo de bajo nivel",
+      "Eficiencia",
+      "Gestión de memoria"
+    ]
+  },
+  {
+    "name": "C++",
+    "icon": "simple-icons:cplusplus",
+    "level": "Intermediate",
+    "keywords": [
+      "Programación de sistemas",
+      "Desarrollo de software",
+      "Eficiencia",
+      "Orientado a objetos"
+    ]
+  },
+  {
+    "name": "C#",
+    "icon": "simple-icons:csharp",
+    "level": "Intermediate",
+    "keywords": [
+      "Desarrollo de aplicaciones",
+      "Programación orientada a objetos",
+      ".NET Framework",
+      "Desarrollo de software empresarial"
+    ]
+  },
+  {
+    "name": "HTML / CSS",
+    "icon": "simple-icons:html5",
+    "level": "Intermediate",
+    "keywords": [
+      "Web Development",
+      "Frontend",
+      "Responsive Design"
+    ]
+  },
+  {
+    "name": "JavaScript",
+    "icon": "simple-icons:javascript",
+    "level": "Intermediate",
+    "keywords": [
+      "Web Development",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "name": "SQL",
+    "icon": "mdi:database",
+    "level": "Intermediate",
+    "keywords": [
+      "Databases",
+      "Data Storage",
+      "Backend"
+    ]
+  },
+  {
+    "name": "Inteligencia Artificial",
+    "icon": "mdi:brain",
+    "level": "Intermediate",
+    "keywords": [
+      "Aprendizaje automático",
+      "Procesamiento de lenguaje natural",
+      "Visión por computadora",
+      "Redes neuronales"
+    ]
+  },
+  {
+    "name": "Seguimiento y control tecnológico",
+    "icon": "mdi:monitor-dashboard",
+    "level": "Intermediate",
+    "keywords": [
+      "Technology Management",
+      "Control",
+      "Monitoring"
+    ]
+  },
+  {
+    "name": "Office",
+    "icon": "mdi:microsoft-office",
+    "level": "Expert",
+    "keywords": [
+      "Ofimática",
+      "Productivity",
+      "Documents"
+    ]
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "simple-icons:bootstrap",
+    "level": "Intermediate",
+    "keywords": [
+      "Web Development",
+      "Frontend",
+      "Responsive Design"
+    ]
+  },
+  {
+    "name": "Astro",
+    "icon": "simple-icons:astro",
+    "level": "Intermediate",
+    "keywords": [
+      "Desarrollo Web",
+      "Frontend",
+      "Rendimiento",
+      "Componentes"
+    ]
+  },
+  {
+    "name": "Android Studio",
+    "icon": "simple-icons:androidstudio",
+    "level": "Intermediate",
+    "keywords": [
+      "Desarrollo de aplicaciones móviles",
+      "Android",
+      "Java",
+      "Kotlin"
+    ]
+  },
+  {
+    "name": "Next.js",
+    "icon": "simple-icons:nextdotjs",
+    "level": "Intermediate",
+    "keywords": [
+      "Desarrollo Web",
+      "Frontend",
+      "React",
+      "Renderizado del lado del servidor"
+    ]
+  },
+  {
+    "name": "Tailwind",
+    "icon": "simple-icons:tailwindcss",
+    "level": "Intermediate",
+    "keywords": [
+      "Desarrollo Web",
+      "Frontend",
+      "CSS Utilitario",
+      "Diseño Responsivo"
+    ]
+  },
+  {
+    "name": "Redes",
+    "icon": "mdi:network",
+    "level": "Intermediate",
+    "keywords": [
+      "Configuración de redes",
+      "Protocolos",
+      "Seguridad",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "name": "Soporte y Mantenimiento",
+    "icon": "mdi:wrench",
+    "level": "Intermediate",
+    "keywords": [
+      "Resolución de problemas",
+      "Mantenimiento preventivo",
+      "Actualizaciones de software",
+      "Optimización de sistemas"
+    ]
+  },
+  {
+    "name": "Windows",
+    "icon": "mdi:windows",
+    "level": "Intermediate",
+    "keywords": [
+      "Sistema operativo",
+      "Configuración",
+      "Administración",
+      "Resolución de problemas"
+    ]
+  },
+  {
+    "name": "Linux",
+    "icon": "simple-icons:linux",
+    "level": "Intermediate",
+    "keywords": [
+      "Sistema operativo",
+      "Línea de comandos",
+      "Administración de sistemas",
+      "Código abierto"
+    ]
+  },
+  {
+    "name": "macOS",
+    "icon": "simple-icons:apple",
+    "level": "Intermediate",
+    "keywords": [
+      "Sistema operativo",
+      "Interfaz gráfica",
+      "Desarrollo de aplicaciones",
+      "Ecosistema Apple"
+    ]
+  }
+],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cloudflare Vmail",
+      "image": {
+        "url": "https://i0.hdslb.com/bfs/article/985e2caa8266dee4b9861ee6a341886d480025691.png@1e_1c.webp",
+        "position": "container",
+        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
+      },
+      "isActive": true,
+      "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
+      "highlights": [
+        "🎯 Privacy-friendly, no registration required, out-of-the-box",
+        "✨ Support saving passwords and retrieving email addresses",
+        "😄 Support multiple domain name suffixes",
+        "🚀 100% open source, fully based on Cloudflare."
+      ],
+      "url": "https://what-the-fuck.sbs",
+      "github": "https://github.com/MiraHikari/cloudflare-vmail"
+    },
+    {
+      "name": "Riddle Town Hunt 2",
+      "image": {
+        "url": "https://rth2-webstatic.gbclstudio.cn/wp-content/uploads/2024/02/1707656250-76b2b0d2c94824e89a2b8b2c7d1c6afe.png",
+        "position": "background"
+      },
+      "isActive": true,
+      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "highlights": [
+        "👌 More than 1000 people participated, system runs normally",
+        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
+        "😊 Windows-like interface",
+        "💕 Based on Astro"
+      ],
+      "url": "https://rth2.gcxstudio.cn/"
+    }
+  ]
+}

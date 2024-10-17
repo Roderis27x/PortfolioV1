@@ -1,0 +1,11 @@
+---
+import { Image } from "astro:assets";
+import Section from "../Section.astro";
+
+import CV from "@cv";
+const images = CV.images!;
+---
+<script>
+  import { Fancybox } from "@fancyapps/ui";
+  Fancybox.bind('[data-fancybox="gallery"]', { hideScrollbar: false });
+</script>
